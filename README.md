@@ -26,7 +26,7 @@ The code is of suboptimal quality. It was a quick-and-dirty plugin; feel free to
 
 1) Install the plugin
 ```
-sudo npm -g install homebridge-ewelink-max
+sudo npm -g install homebridge-ewelink-xs
 ```
 
 2) Add to the platforms[] section of config.json.

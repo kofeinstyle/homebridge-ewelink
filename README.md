@@ -1,4 +1,4 @@
-# homebridge-ewelink-max
+# homebridge-ewelink-xs
 
 Homebridge plugin to control Sonoff relays with OEM firmware. It uses the same API as the iOS app to communicate with your devices.
 
@@ -9,10 +9,6 @@ It has been tested with the [Sonoff basic](http://sonoff.itead.cc/en/products/so
 The plugin will only support one eWeLink account.
 
 It is possible to continue to use the OEM functionality (eWeLink app, Google Home integration); this plugin requires no modification to the relay's firmware.
-
-## Why max?
-
-This is a fork of [homebridge-ewelink](https://github.com/gbro115/homebridge-ewelink), which is not being actively updated. There is another package named [homebridge-ewelin-plus](https://www.npmjs.com/package/homebridge-ewelink-plus) which is not updated for 6 months at the time of writing. The name is inspired by Apple's naming convention.
 
 This fork have the following notable changes / improvements:
 
